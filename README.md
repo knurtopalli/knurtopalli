@@ -1,3 +1,5 @@
+![Alt text](https://sample/url/name-of-gif-file.gif)
+
 - 👋 Hi, I’m Nur
 - 🌱 I’m currently learning Swift & Node.js
 - 📷 Fun fact I'm a photo-videographer 😇
