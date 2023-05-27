@@ -1,4 +1,4 @@
-![Alt text](https://sample/url/name-of-gif-file.gif)
+<iframe src="https://giphy.com/embed/Uz4cDaGXPxeuY" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-spirited-away-Uz4cDaGXPxeuY">via GIPHY</a></p>
 
 - 👋 Hi, I’m Nur
 - 🌱 I’m currently learning Swift & Node.js
