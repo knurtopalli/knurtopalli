@@ -1,4 +1,5 @@
-![Uploading n4pnGv.gif…]()
+
+![Xtta](https://github.com/knurtopalli/knurtopalli/assets/134601632/a6596f91-1ced-4014-8000-ec2a6039980e)
 
 
 - 👋 Hi, I’m Nur
