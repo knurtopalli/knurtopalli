@@ -1,5 +1,5 @@
 
-![Xtta](https://github.com/knurtopalli/knurtopalli/assets/134601632/a6596f91-1ced-4014-8000-ec2a6039980e)
+![giphy-2](https://github.com/knurtopalli/knurtopalli/assets/134601632/26017ecd-9fd5-4588-aebb-321a8dd4c769)
 
 
 - 👋 Hi, I’m Nur
