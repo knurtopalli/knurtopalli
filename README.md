@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Nur
-- 🌱 I’m currently learning Swift & Backend development
+- 🌱 I’m currently learning IOS & Backend development
 
 
 <!---
