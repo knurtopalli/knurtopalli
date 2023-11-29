@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Nur
-- 🌱 I’m currently learning 𝙋𝙮𝙩𝙝𝙤𝙣 
+- 🌱 I’m currently learning 𝙋𝙮𝙩𝙝𝙤𝙣 & 𝙎𝙬𝙞𝙛𝙩
 
 
 <!---
