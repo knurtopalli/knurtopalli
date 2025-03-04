@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kubra Nur</h1>
-- 🌱 I’m currently learning **Swift, UIKit & SwiftUI**
+![a404a481f48045b1a24cdbba5cc8d350](https://github.com/user-attachments/assets/1b989bb7-cc50-40fa-9c23-97008ed287d3)
 
-- ⚡ Fun fact **I used to code PHP**
+
+<h1 align="left">Hi 👋, I'm Kubra Nur</h1>
+
+
+🌱 I’m currently learning **Swift, UIKit & SwiftUI**
+
+ ⚡ Fun fact **I used to code PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
